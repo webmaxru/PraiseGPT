@@ -3,12 +3,16 @@
 ChatGPT-powered bot whose only goal is to help you write positive feedback to your colleagues.
 
 <p align="center">
-    <img src="app/public/images/social.png" width="300">
+    <img src="public/images/social.png" width="300">
 </p>
 
 ### Web application (installable, offline-ready)
 
-[EnterPrompt](https://praise.promptengineering.rocks/) - ChatGPT-powered bot which only uses your enterprise data
+[PraiseGPT](https://praise.promptengineering.rocks/) - Praise your colleagues on a large scale!
+
+<p align="center">
+    <img src="public/images/demo.gif" width="300">
+</p>
 
 ## Getting Started
 
@@ -43,7 +47,7 @@ You are fully ready to interact with your own assistant now!
 
 ### Author
 
-[Maxim Salnikov](https://twitter.com/webmaxru). Feel free to contact me if you have any questions about the project, PWA, Web Push, etc.
+[Maxim Salnikov](https://www.linkedin.com/in/webmax/). Feel free to contact me if you have any questions about the project, cloud in general, Azure, OpenAI, JavaScript, React, Angular, PWA, etc.
 
 ### License
 

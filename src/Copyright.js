@@ -9,7 +9,7 @@ export default function Copyright() {
     <Container maxWidth="sm" sx={{ mb: 2 }}>
       <Typography variant="body2" color="text.secondary" align="center">
         Made in {isMobile ? '🇳🇴' : 'Norway'} by&nbsp;
-        <MuiLink color="inherit" href="https://twitter.com/webmaxru/">
+        <MuiLink color="inherit" href="https://www.linkedin.com/in/webmax/">
           Maxim Salnikov
         </MuiLink>{' '}
         |&nbsp;

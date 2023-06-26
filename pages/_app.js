@@ -54,7 +54,7 @@ const navItems = [
   },
   {
     caption: 'Author',
-    link: 'https://twitter.com/webmaxru/',
+    link: 'https://www.linkedin.com/in/webmax/',
     icon: <PersonIcon />,
   },
 ];
