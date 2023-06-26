@@ -20,7 +20,7 @@ export default function About() {
         <br />
         <br />
         The code is open source. Your{' '}
-        <Link href="https://github.com/webmaxru/enterprompt/issues">
+        <Link href="https://github.com/webmaxru/PraiseGPT/issues">
           comments, bug reports, and pull requests
         </Link>{' '}
         are very welcome!
